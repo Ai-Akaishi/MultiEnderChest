@@ -1,5 +1,7 @@
 # MultiEnderChest
 
+📄 [Read in English](./README_en.md)
+
 複数のエンダーチェストの中身を保存・切り替えて使えるデータパックです。  
 エンダーチェストの管理をもっと自由に、便利に。
 
